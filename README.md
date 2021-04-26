@@ -1,4 +1,4 @@
-# Escena camara e iluminacion
+# Escena camara e iluminacion versión con shaders
 
 ![N|Solid](https://i.gyazo.com/c224d3d8dabf6257b3f99b6dbc8c2cbb.png)
 
@@ -15,7 +15,7 @@
 
 **Introducción**:
 
-En esta quinta entrega hemos tenido la oportunidad de afrontar un proyecto abierto, centrado en la iluminación de una escena o composición, y al mismo tiempo el poder brindar al usuario unos controles de cámara para visualizar dicha escena.
+En esta novena entrega hemos realizado una modificación sobre el proyecto "escena-iluminación" y le hemos añadido una variante con los shaders.
 
 **La aplicación**:
 
