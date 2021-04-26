@@ -19,6 +19,7 @@ En esta novena entrega hemos realizado una modificación sobre el proyecto "esce
 
 **La aplicación**:
 
+Seguimos manteniendo el mismo concepto de aplicación:
 Nuestra aplicación se fundamenta en una escena compuesta por tres modelos 3d u objetos, los cuales son:
 
     -Una silla
@@ -33,13 +34,14 @@ Dichos elementos están colocados de una forma orgánica simulando una habitaci�
 
 **Decisiones de diseño**:
 
-Se ha decidido mantener nuestra composición de objetos como eje central de la escena para así imposibilitar mareos o "perdidas de cámara", es decir, con esto logramos atraer completamente la atracción del usuario en nuestra escena. Por otra parte, se ha decidido no poner una base inferior o lateral a modo de suelo y parades para dar más libertad al usuario en cuanto a cámara se refiere.
+Se ha decidido trabajar en base a este proyecto debido al carácter que tenía el mismo. El anterior proyecto es uno donde se juega con la iluminación en una escena compuesta por diferentes objetos, en este caso pasamos a los shaders pudiendo ver el contraste entre ambos.
+Además, la escena ayuda a resaltar más el juego que puede dar esta herramienta.
 
 ![N|Solid](https://i.gyazo.com/2a657512c409c0cf7870a8fe749f6930.png)
 
 **Tutorial**
 
-Este apartado de tutorial se divide en dos partes, la cámara y la iluminación.
+Este apartado de tutorial se divide en tres partes, la cámara, shaders y la iluminación.
 
 Iluminación:
 
@@ -49,6 +51,10 @@ Iluminación:
 Cámara:
 
     -Al mantener el "click-izquierdo" somos capaces de rotar la cámara por nuestra escena.
+ 
+Shaders:
+    
+    -Para cambiar a la vista de los shaders es necesario pulsar la tecla "espacio"
   
 **Notas del autor**
 
